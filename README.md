@@ -149,3 +149,7 @@ Architecture & Governance
 ---
 
 **Product Goal:** Build a predictive, AI-driven project governance framework that helps organizations identify delivery risks early, improve project outcomes, and enhance decision-making through actionable insights and intelligent reporting.
+
+## Disclaimer
+
+This repository is a self-initiated Product Management and AI solution design case study created for learning, portfolio, and demonstration purposes. All content, documents, workflows, and architectures are based on conceptual examples and do not contain any proprietary, confidential, customer, or employer information.
