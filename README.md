@@ -32,7 +32,7 @@ To transform project delivery from reactive status reporting to proactive, AI-dr
 
 ---
 
-## Product Objectives
+## Product Objectives/ Scope
 
 - Predict project health status
 - Identify delivery risks early
@@ -40,6 +40,14 @@ To transform project delivery from reactive status reporting to proactive, AI-dr
 - Monitor resource and budget performance
 - Provide actionable recommendations
 - Deliver real-time project insights
+
+## Out of Scope
+
+- Project execution management
+- Financial accounting systems
+- Resource hiring processes
+- ERP transaction processing
+- Third-party project tool development
 
 ---
 
@@ -77,6 +85,19 @@ To transform project delivery from reactive status reporting to proactive, AI-dr
 - Project Dashboards
 - Portfolio Health Reporting
 - Governance Metrics
+
+---
+
+# Business KPIs
+
+| KPI | Purpose |
+|------|---------|
+| Project Success Rate | Measure delivery effectiveness |
+| On-Time Delivery % | Measure schedule adherence |
+| Risk Prediction Accuracy | Measure AI effectiveness |
+| Resource Utilization % | Measure capacity efficiency |
+| Stakeholder Satisfaction | Measure governance effectiveness |
+| Reporting Effort Reduction | Measure operational efficiency |
 
 ---
 
