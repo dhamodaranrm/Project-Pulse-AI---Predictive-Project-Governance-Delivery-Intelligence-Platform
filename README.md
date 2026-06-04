@@ -1,4 +1,4 @@
-# ProjectPulse AI - Predictive Project Governance & Delivery Intelligence Platform
+# Project Pulse AI - Predictive Project Governance & Delivery Intelligence Platform
 
 ## Overview
 
