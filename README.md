@@ -66,34 +66,34 @@ ProjectPulse AI addresses these challenges by:
 
 ## Repository Structure
 
-### 📌 01 Executive Overview
+### 📌 00 Executive Overview
 High-level product vision, goals, and strategy.
 
-### 📌 02 BRD / PRD
+### 📌 01 BRD / PRD
 Business requirements and product definition.
 
-### 📌 03 User Stories
+### 📌 02 User Stories
 Agile user stories and acceptance criteria.
 
-### 📌 04 Agile Workflows
+### 📌 03 Agile Workflows
 Sprint planning, execution, and delivery process.
 
-### 📌 05 Roadmaps
+### 📌 04 Roadmaps
 Quarterly planning, release planning, and milestone tracking.
 
-### 📌 06 UAT & Validation
+### 📌 05 UAT & Validation
 Testing, defect tracking, and sign-off processes.
 
-### 📌 07 Risk Assessment
+### 📌 06 Risk Assessment
 Risk register, mitigation plan, and review logs.
 
-### 📌 08 Dashboard Reporting
+### 📌 07 Dashboard Reporting
 Project and executive dashboards with KPI framework.
 
-### 📌 09 AI Monitoring
+### 📌 08 AI Monitoring
 AI performance tracking, validation, and feedback loops.
 
-### 📌 10 Solution Architecture
+### 📌 09 Solution Architecture
 System design, data flow, and AI architecture.
 
 ---
