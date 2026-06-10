@@ -11,6 +11,22 @@ ProjectPulse AI is a Product Management + AI-driven delivery intelligence platfo
 It simulates a real-world enterprise system combining Agile delivery, AI forecasting, risk intelligence, and executive reporting.
 
 ---
+## ⭐ Featured Artifacts
+
+These artifacts best represent my Product Management thinking and execution approach:
+
+### 📄 Product Requirements Document (PRD)
+Demonstrates product definition, scope management, requirements gathering, and stakeholder alignment.
+
+### 📊 Project Health Dashboard
+Demonstrates KPI design, governance reporting, and executive visibility.
+
+### 🤖 AI Performance Monitoring
+Demonstrates AI product thinking, monitoring strategy, model governance, and continuous improvement.
+
+These are the strongest examples of how I approach product strategy, execution, governance, and measurement.
+---
+
 
 ## Problem Statement
 
